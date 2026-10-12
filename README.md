@@ -79,12 +79,13 @@ Suggestions, bug reports, and constructive feedback are welcome.
 
 If you would like to help improve Holo, consider opening an issue or proposing a change. Please describe the problem clearly and include reproduction steps when reporting a bug.
 
-## 📜 Credits and Licensing
+## 📜 License
 
-Holo is developed using an existing Minecraft client codebase and builds on prior community work.
+Holo Client is distributed under the GNU General Public License v3.0 (GPL 3.0), subject to the applicable license terms of the original codebase.
 
-Original authors, copyright notices, and applicable license terms must be respected. Please check the repository's license and attribution requirements before redistributing or publishing modified versions.
+Redistribution and modification must comply with the license requirements, including preserving applicable copyright notices and providing the corresponding source code when required.
 
+See the `LICENSE` file for the full license text.
 ## 💙 The Goal
 
 **Free to explore. Built to customize. Designed to feel different.**
